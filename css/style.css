@@ -1,4 +1,4 @@
-* {
+/* * {
     box-sizing: border-box;
 }
 
@@ -61,7 +61,7 @@
     margin-bottom: .4rem;
     overflow: hidden;
     display: flex;
-    /* justify-content: center; */
+  
     align-items: cener;
     transition: background .3s ease-in-out, color .3s ease-in-out;
     cursor: pointer;
@@ -111,4 +111,4 @@
 .card__icon--db:hover {
     background-color: #f962b1;
     color: white;
-}
+} */
